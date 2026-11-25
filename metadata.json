@@ -1,0 +1,10 @@
+{
+  "name": "Remix PinjamKuy — Marketplace Sewa Barang P2P Terpercaya",
+  "description": "Platform sewa-menyewa barang antar pengguna dengan verifikasi identitas, pelacakan lokasi GPS, ulasan foto asli, dan obrolan langsung.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
